@@ -1,8 +1,8 @@
 ﻿
 
 **CODEMAGIC**
-[Imgur](https://imgur.com/y8XTx1R)
-[Imgur](https://imgur.com/ej5Jk7q)
+[Imgur](https://github.com/CristoJGM2612/git/blob/main/codemagic/images_codemagic/Captura-2.PNG)
+[Imgur](https://github.com/CristoJGM2612/git/blob/main/codemagic/images_codemagic/Captura-3.PNG)
 
 
 
@@ -95,10 +95,10 @@ World!”
 
 Ejemplo de Pipeline Sencillo
 
-[Imgur](https://imgur.com/s5U5BDb)
+[Imgur](https://github.com/CristoJGM2612/git/blob/main/codemagic/images_codemagic/Captura-1.PNG)
 
-[Imgur](https://imgur.com/z8rDIEK)
-[Imgur](https://imgur.com/oaamA8A)
+[Imgur](https://github.com/CristoJGM2612/git/blob/main/codemagic/images_codemagic/Captura-6.PNG)
+[Imgur](https://github.com/CristoJGM2612/git/blob/main/codemagic/images_codemagic/Captura.PNG)
 
 
 Conclusión
@@ -123,12 +123,12 @@ miembros ilimitados, acompañado de soporte. Aunque si es cierto que sólo puede
 
 desplegar 3 aplicaciones simultáneas
 
-[Imgur](https://imgur.com/TOmhMZI)
+[Imgur](https://github.com/CristoJGM2612/git/blob/main/codemagic/images_codemagic/Captura-7.PNG)
 
 
 
 **REFERENCIAS**
-[Link text](https://docs.codemagic.io)
+[Codemagic](https://docs.codemagic.io)
 
 
 Cristo Javier García Martín
