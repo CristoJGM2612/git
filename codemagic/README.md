@@ -1,8 +1,8 @@
 ﻿
 
 **CODEMAGIC**
-[Imgur](https://github.com/CristoJGM2612/git/blob/main/codemagic/images_codemagic/Captura-2.PNG)
-[Imgur](https://github.com/CristoJGM2612/git/blob/main/codemagic/images_codemagic/Captura-3.PNG)
+![alt text](https://github.com/CristoJGM2612/git/blob/main/codemagic/images_codemagic/Captura-2.PNG?raw=true)
+![alt text](https://github.com/CristoJGM2612/git/blob/main/codemagic/images_codemagic/Captura-3.PNG?raw=true)
 
 
 
@@ -95,10 +95,10 @@ World!”
 
 Ejemplo de Pipeline Sencillo
 
-[Imgur](https://github.com/CristoJGM2612/git/blob/main/codemagic/images_codemagic/Captura-1.PNG)
+![alt text](https://github.com/CristoJGM2612/git/blob/main/codemagic/images_codemagic/Captura-1.PNG?raw=true)
 
-[Imgur](https://github.com/CristoJGM2612/git/blob/main/codemagic/images_codemagic/Captura-6.PNG)
-[Imgur](https://github.com/CristoJGM2612/git/blob/main/codemagic/images_codemagic/Captura.PNG)
+![alt text](https://github.com/CristoJGM2612/git/blob/main/codemagic/images_codemagic/Captura-6.PNG?raw=true)
+![alt text](https://github.com/CristoJGM2612/git/blob/main/codemagic/images_codemagic/Captura.PNG?raw=true)
 
 
 Conclusión
@@ -123,7 +123,7 @@ miembros ilimitados, acompañado de soporte. Aunque si es cierto que sólo puede
 
 desplegar 3 aplicaciones simultáneas
 
-[Imgur](https://github.com/CristoJGM2612/git/blob/main/codemagic/images_codemagic/Captura-7.PNG)
+![alt text](https://github.com/CristoJGM2612/git/blob/main/codemagic/images_codemagic/Captura-7.PNG?raw=true)
 
 
 
